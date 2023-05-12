@@ -1,3 +1,4 @@
+# Introduction
 ## test de turin : 
 
 ### Definition : 
@@ -156,3 +157,34 @@ Nous avons pu voir qu'un ensemble de petit neuronne permet de faire fonctionner 
 L'idée seratit de créer de superHumain avec les ordinateurs mais nous sommes encore l'un d'avoir un ordinateur aussi puissant qu'un cerveaux. 
 
 ## Psycohology
+
+### Behaviorism 
+
+Principe scientifique qui oart du principe d'étudier l'humain uniquement sur des choses mesurables car nous envoyons une chose perceptible(ou stimulus) à un animal et étudions l'action qui en résultes.
+
+### Cognitive psychology 
+
+Dans cette approche nous traitons le cerveau comme un processeur remplie d'information. On considère dans cette approche une logique incosciente
+Livre qui a basé la pensé cognitive.![[61olHqzYNJL.jpg]]
+
+Craik à par la suite donnée les trois manière pour faire une agent apprendre : 
+1) Le stimulus doit être représenter de manière interne 
+2) Cette représentation est manipuler par un processur cognitif pour devenir une nouvel représentation
+3) et Cette représentation final est tranduit pour devenir une action.
+
+
+## Computer engineering
+
+### Control theory
+La théorie du control à comme objet d'étude le comportement d'un système dynamique avec des paramètre déjà défini.
+
+### Cybernetics
+
+Idée connue venant du livre de Wiener Cybernetics : 
+![[téléchargé.jpg]]
+
+### Homeostatic 
+Pars du principede créer une machine ayant une base de feedback stable pour ensuite avoir un environnement stable pour qu'elle puisse adapter son comportement de manière autonome
+
+### Objective funtion 
+L'aproche moderne de la théorie de control demande d'optimiser au maximum. Ce qui ressemble beaucoup à l'approche de l'IA mais la différence dépendra des matière utilisé en effet en théorie du control nous priviligerons : des matières plus mathématique comme le calculus ou les matrixes algébriques pour créer un système descriptible et avec des paramètres fixe.
